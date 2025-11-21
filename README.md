@@ -1,4 +1,4 @@
 # FCT
-A Feature-Fused CNN-Transformer Model for Material Recognition
+A Feature-Fused CNN-Transformer Model for Tactile Perception
 
 Data will be open-source on request.
